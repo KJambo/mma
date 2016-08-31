@@ -1,0 +1,3 @@
+*.log
+config/slack_webhook.yml
+*.swp
