@@ -1,7 +1,6 @@
 require 'nokogiri'
 require 'open-uri'
 require 'httparty'
-require 'pry'
 
 class Mma 
   @@MMA_URL = 'http://work.mma.go.kr/caisBYIS/board/boardList.do?gesipan_gbcd=13&tmpl_id=1&menu_id=m_m8_6'
